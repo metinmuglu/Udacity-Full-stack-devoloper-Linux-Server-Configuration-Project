@@ -24,7 +24,8 @@ APPLICATION_NAME = "Item Catalog Application"
 
 
 # Connect to Database and create database session
-engine = create_engine('sqlite:///itemcatalog.db')
+# engine = create_engine('sqlite:///itemcatalog.db')
+engine = create_engine('postgresql://catalog:password@localhost/catalog')
 Base.metadata.bind = engine
 
 DBSession = sessionmaker(bind=engine)
