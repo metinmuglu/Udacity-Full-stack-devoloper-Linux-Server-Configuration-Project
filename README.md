@@ -6,10 +6,10 @@
 
 this project  is my 2 projects for Udacity Full Stack Nanodegree. It is a product catalog project. Contains the main title and subtypes of the product. You can login via Facebook. When login is made, authorizations are obtained.
 
-This program uses third party authorization with Google or Facebook. Some of the technologies used in this app are Flask, Bootsrap and SQLite.
+'This program uses third party authorization with Google or Facebook. Some of the technologies used in this app are Flask, Bootsrap and SQLite'.
 
 
-## Skills used for this project
+## Skills used for this project##
 - Python
 - Jinja2
 - SQLAchemy
@@ -37,7 +37,7 @@ This program uses third party authorization with Google or Facebook. Some of the
 - go to `http://localhost/categories` to access the application
 
 
-## JSON Endpoints
+## JSON Endpoints##
 
 `/api/v1/catalog.json` - Returns JSON of all items in catalog
 
