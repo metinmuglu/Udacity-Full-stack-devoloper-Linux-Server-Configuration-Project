@@ -1,8 +1,8 @@
-# Item Catalog
+# Item Catalog -  head line i like it
 
 > Metin Muglu
 
-## About
+## Aboutyour
 
 this project  is my 2 projects for Udacity Full Stack Nanodegree. It is a product catalog project. Contains the main title and subtypes of the product. You can login via Facebook. When login is made, authorizations are obtained.
 
